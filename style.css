@@ -41,6 +41,7 @@ body{
 /* Portfolio */
 
 /* About */
+
 /* .border_top.position-absolute {
     height: 15px;
     width: 25%;
@@ -70,3 +71,21 @@ body{
     right: 111px;
     bottom: -12px;
 } */
+.social-share a {
+    color: black;
+    background-color: white;
+    padding: 16px 20px;
+    margin: 0px 6px;
+    border-radius: 5px;
+}
+.social-share a:hover{
+    background-color: #DA062C;
+    color: white;
+    transition-duration: 0.7s;
+}
+.play-button i{
+    color: #DA062C;
+}
+.play-button:hover i{
+    color: white;
+}
