@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* navbar */
+.bg-first{
+    background-color: #DA062C;
+}
+/* Hero */
+.color-first{
+    color: #DA062C;
+}
+.section-bg{
+    background-color: #E0E0E0;
+}
+#hero{
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+#hero img{
+    border-radius: 50%;
+}
+#hero h1 span{
+    color: #DA062C;
+}
+.hero_title_style{
+    top: 38px;
+    background-color: #DA062C;
+    width: 15%;
+    height: 2px;
+}
+.get_started_btn{
+    background-color: #DA062C;
+    color: white;
+    padding: 12px 35px;
+}
+.get_started_btn:hover{
+    border: 1px solid #DA062C;
+    background-color: #da062d00;
+    color: #DA062C;
+}
+/* Portfolio */
+
+/* About */
+/* .border_top.position-absolute {
+    height: 15px;
+    width: 25%;
+    background: white;
+    top: -545px;
+}
+.border_left.position-absolute {
+    height: 12px;
+    width: 25%;
+    background: white;
+    top: -483px;
+    left: -74px;
+    transform: rotate(90deg);
+}
+.border_right.position-absolute {
+    height: 12px;
+    width: 100%;
+    left: 156px;
+    bottom: 255px;
+    background: white;
+    transform: rotate(90deg);
+}
+.border_bottom.position-absolute {
+    height: 12px;
+    width: 23%;
+    background: white;
+    right: 111px;
+    bottom: -12px;
+} */
